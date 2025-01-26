@@ -1,0 +1,660 @@
+[2024/12/01 11:41:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:43:41] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:43:43] ppocr DEBUG: Error loading image: E:\Docs\CVA\PaddleOCR	rain_data\data_test\private_test_imgs\img_1.jpg
+[2024/12/01 11:45:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:45:01] ppocr DEBUG: Error loading image: E:\Docs\CVA\PaddleOCR	rain_data\data_test\private_test_imgs\img_1.jpg
+[2024/12/01 11:45:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:45:28] ppocr INFO: The predict total time is 0.7232627868652344
+[2024/12/01 11:45:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:49:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:50:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:50:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:50:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:53:17] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:53:21] ppocr INFO: The predict total time is 1.1576573848724365
+[2024/12/01 11:54:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 11:54:15] ppocr INFO: The predict total time is 0.5815153121948242
+[2024/12/01 12:17:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:17:18] ppocr INFO: The predict total time is 0.26335859298706055
+[2024/12/01 12:17:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:17:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:17:59] ppocr INFO: The predict total time is 0.26552391052246094
+[2024/12/01 12:17:59] ppocr INFO: The predict total time is 0.26552391052246094
+[2024/12/01 12:18:10] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:18:10] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:18:11] ppocr INFO: The predict total time is 0.34627413749694824
+[2024/12/01 12:18:11] ppocr INFO: The predict total time is 0.34627413749694824
+[2024/12/01 12:19:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:13] ppocr INFO: The predict total time is 0.4022865295410156
+[2024/12/01 12:19:13] ppocr INFO: The predict total time is 0.4022865295410156
+[2024/12/01 12:19:18] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:18] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:19] ppocr INFO: The predict total time is 0.3184967041015625
+[2024/12/01 12:19:19] ppocr INFO: The predict total time is 0.3184967041015625
+[2024/12/01 12:19:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:19:26] ppocr INFO: The predict total time is 0.23026514053344727
+[2024/12/01 12:19:26] ppocr INFO: The predict total time is 0.23026514053344727
+[2024/12/01 12:26:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:13] ppocr INFO: The predict total time is 0.3819859027862549
+[2024/12/01 12:26:13] ppocr INFO: The predict total time is 0.3819859027862549
+[2024/12/01 12:26:13] ppocr INFO: The predict total time is 0.3819859027862549
+[2024/12/01 12:26:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:18] ppocr INFO: The predict total time is 0.28110623359680176
+[2024/12/01 12:26:18] ppocr INFO: The predict total time is 0.28110623359680176
+[2024/12/01 12:26:18] ppocr INFO: The predict total time is 0.28110623359680176
+[2024/12/01 12:26:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:28] ppocr INFO: The predict total time is 0.4437835216522217
+[2024/12/01 12:26:28] ppocr INFO: The predict total time is 0.4437835216522217
+[2024/12/01 12:26:28] ppocr INFO: The predict total time is 0.4437835216522217
+[2024/12/01 12:26:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:37] ppocr INFO: The predict total time is 0.16356468200683594
+[2024/12/01 12:26:37] ppocr INFO: The predict total time is 0.16356468200683594
+[2024/12/01 12:26:37] ppocr INFO: The predict total time is 0.16356468200683594
+[2024/12/01 12:26:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:50] ppocr INFO: The predict total time is 0.2242600917816162
+[2024/12/01 12:26:50] ppocr INFO: The predict total time is 0.2242600917816162
+[2024/12/01 12:26:50] ppocr INFO: The predict total time is 0.2242600917816162
+[2024/12/01 12:26:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:26:57] ppocr INFO: The predict total time is 0.161909818649292
+[2024/12/01 12:26:57] ppocr INFO: The predict total time is 0.161909818649292
+[2024/12/01 12:26:57] ppocr INFO: The predict total time is 0.161909818649292
+[2024/12/01 12:27:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:32] ppocr INFO: The predict total time is 0.17260479927062988
+[2024/12/01 12:27:32] ppocr INFO: The predict total time is 0.17260479927062988
+[2024/12/01 12:27:32] ppocr INFO: The predict total time is 0.17260479927062988
+[2024/12/01 12:27:37] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:37] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:37] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:40] ppocr INFO: The predict total time is 0.1049504280090332
+[2024/12/01 12:27:40] ppocr INFO: The predict total time is 0.1049504280090332
+[2024/12/01 12:27:40] ppocr INFO: The predict total time is 0.1049504280090332
+[2024/12/01 12:27:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:46] ppocr INFO: The predict total time is 0.13354158401489258
+[2024/12/01 12:27:46] ppocr INFO: The predict total time is 0.13354158401489258
+[2024/12/01 12:27:46] ppocr INFO: The predict total time is 0.13354158401489258
+[2024/12/01 12:27:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:27:54] ppocr INFO: The predict total time is 0.19695544242858887
+[2024/12/01 12:27:54] ppocr INFO: The predict total time is 0.19695544242858887
+[2024/12/01 12:27:54] ppocr INFO: The predict total time is 0.19695544242858887
+[2024/12/01 12:28:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:40] ppocr INFO: The predict total time is 0.11458802223205566
+[2024/12/01 12:28:40] ppocr INFO: The predict total time is 0.11458802223205566
+[2024/12/01 12:28:40] ppocr INFO: The predict total time is 0.11458802223205566
+[2024/12/01 12:28:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:28:47] ppocr INFO: The predict total time is 0.23370766639709473
+[2024/12/01 12:28:47] ppocr INFO: The predict total time is 0.23370766639709473
+[2024/12/01 12:28:47] ppocr INFO: The predict total time is 0.23370766639709473
+[2024/12/01 12:29:27] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:27] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:27] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:27] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:28] ppocr INFO: The predict total time is 0.08720993995666504
+[2024/12/01 12:29:28] ppocr INFO: The predict total time is 0.08720993995666504
+[2024/12/01 12:29:28] ppocr INFO: The predict total time is 0.08720993995666504
+[2024/12/01 12:29:28] ppocr INFO: The predict total time is 0.08720993995666504
+[2024/12/01 12:29:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:29:59] ppocr INFO: The predict total time is 0.09592127799987793
+[2024/12/01 12:29:59] ppocr INFO: The predict total time is 0.09592127799987793
+[2024/12/01 12:29:59] ppocr INFO: The predict total time is 0.09592127799987793
+[2024/12/01 12:29:59] ppocr INFO: The predict total time is 0.09592127799987793
+[2024/12/01 12:29:59] ppocr INFO: The predict total time is 0.09592127799987793
+[2024/12/01 12:30:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:05] ppocr INFO: The predict total time is 0.20101261138916016
+[2024/12/01 12:30:05] ppocr INFO: The predict total time is 0.20101261138916016
+[2024/12/01 12:30:05] ppocr INFO: The predict total time is 0.20101261138916016
+[2024/12/01 12:30:05] ppocr INFO: The predict total time is 0.20101261138916016
+[2024/12/01 12:30:05] ppocr INFO: The predict total time is 0.20101261138916016
+[2024/12/01 12:30:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:12] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:13] ppocr INFO: The predict total time is 0.09332108497619629
+[2024/12/01 12:30:13] ppocr INFO: The predict total time is 0.09332108497619629
+[2024/12/01 12:30:13] ppocr INFO: The predict total time is 0.09332108497619629
+[2024/12/01 12:30:13] ppocr INFO: The predict total time is 0.09332108497619629
+[2024/12/01 12:30:13] ppocr INFO: The predict total time is 0.09332108497619629
+[2024/12/01 12:30:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:30:20] ppocr INFO: The predict total time is 0.08451366424560547
+[2024/12/01 12:30:20] ppocr INFO: The predict total time is 0.08451366424560547
+[2024/12/01 12:30:20] ppocr INFO: The predict total time is 0.08451366424560547
+[2024/12/01 12:30:20] ppocr INFO: The predict total time is 0.08451366424560547
+[2024/12/01 12:30:20] ppocr INFO: The predict total time is 0.08451366424560547
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:26] ppocr INFO: The predict total time is 0.19728684425354004
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:31:33] ppocr INFO: The predict total time is 0.15389680862426758
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:32] ppocr INFO: The predict total time is 0.10315513610839844
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:32:37] ppocr INFO: The predict total time is 0.18087553977966309
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:44] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:47] ppocr INFO: The predict total time is 0.19487857818603516
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:53] ppocr INFO: The predict total time is 0.21921372413635254
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:33:59] ppocr INFO: The predict total time is 0.23164820671081543
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:38] ppocr INFO: The predict total time is 0.22387409210205078
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:40:55] ppocr INFO: The predict total time is 0.14299535751342773
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:22] ppocr INFO: The predict total time is 0.16808843612670898
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/01 12:41:27] ppocr INFO: The predict total time is 0.2418968677520752
+[2024/12/02 15:51:07] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/02 15:51:13] ppocr INFO: The predict total time is 1.4447410106658936
+[2024/12/02 15:51:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/02 15:51:26] ppocr INFO: The predict total time is 0.33823466300964355
+[2024/12/02 15:51:33] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/02 15:51:34] ppocr INFO: The predict total time is 0.1971111297607422
+[2024/12/02 15:51:41] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/02 15:51:43] ppocr INFO: The predict total time is 0.15961384773254395
+[2024/12/03 07:56:24] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 07:56:29] ppocr INFO: The predict total time is 1.287588357925415
+[2024/12/03 07:56:40] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 07:56:42] ppocr INFO: The predict total time is 0.2899341583251953
+[2024/12/03 07:56:59] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 07:57:02] ppocr INFO: The predict total time is 0.21024751663208008
+[2024/12/03 09:41:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:41:55] ppocr INFO: The predict total time is 0.574413537979126
+[2024/12/03 09:42:03] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:04] ppocr INFO: The predict total time is 0.17838621139526367
+[2024/12/03 09:42:10] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:12] ppocr INFO: The predict total time is 0.2016596794128418
+[2024/12/03 09:42:18] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:19] ppocr INFO: The predict total time is 0.10399723052978516
+[2024/12/03 09:42:33] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:36] ppocr INFO: The predict total time is 0.1520068645477295
+[2024/12/03 09:42:50] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:53] ppocr INFO: The predict total time is 0.12942934036254883
+[2024/12/03 09:42:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:42:59] ppocr INFO: The predict total time is 0.21664953231811523
+[2024/12/03 09:47:06] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:47:10] ppocr INFO: The predict total time is 0.2762107849121094
+[2024/12/03 09:47:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:47:52] ppocr INFO: The predict total time is 0.26627087593078613
+[2024/12/03 09:48:31] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:48:34] ppocr INFO: The predict total time is 0.37050342559814453
+[2024/12/03 09:49:21] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:49:24] ppocr INFO: The predict total time is 0.3692739009857178
+[2024/12/03 09:49:41] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 09:49:44] ppocr INFO: The predict total time is 0.36135005950927734
+[2024/12/03 11:08:27] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:08:52] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:08:52] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:09:34] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:09:34] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:09:34] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:10:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:10:22] ppocr INFO: The predict total time is 0.6085593700408936
+[2024/12/03 11:12:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:10] ppocr INFO: The predict total time is 0.12781333923339844
+[2024/12/03 11:12:10] ppocr INFO: The predict total time is 0.12781333923339844
+[2024/12/03 11:12:14] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:14] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:16] ppocr INFO: The predict total time is 0.24759888648986816
+[2024/12/03 11:12:16] ppocr INFO: The predict total time is 0.24759888648986816
+[2024/12/03 11:12:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:12:31] ppocr INFO: The predict total time is 0.1570112705230713
+[2024/12/03 11:12:31] ppocr INFO: The predict total time is 0.1570112705230713
+[2024/12/03 11:12:31] ppocr INFO: The predict total time is 0.1570112705230713
+[2024/12/03 11:20:37] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:20:41] ppocr INFO: The predict total time is 0.25041890144348145
+[2024/12/03 11:20:41] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:20:41] ppocr INFO: The predict total time is 0.017681598663330078
+[2024/12/03 11:25:08] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:25:11] ppocr INFO: The predict total time is 0.24686384201049805
+[2024/12/03 11:25:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:25:11] ppocr INFO: The predict total time is 0.010237932205200195
+[2024/12/03 11:25:17] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:25:18] ppocr INFO: The predict total time is 0.030783414840698242
+[2024/12/03 11:26:47] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:26:49] ppocr INFO: The predict total time is 0.22013354301452637
+[2024/12/03 11:35:05] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:35:07] ppocr INFO: The predict total time is 0.24447321891784668
+[2024/12/03 11:35:13] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/03 11:35:14] ppocr INFO: The predict total time is 0.16808176040649414
+[2024/12/04 09:28:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:28:23] ppocr INFO: The predict total time is 0.9720973968505859
+[2024/12/04 09:28:31] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:28:33] ppocr INFO: The predict total time is 0.14707517623901367
+[2024/12/04 09:28:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:28:39] ppocr INFO: The predict total time is 0.14719772338867188
+[2024/12/04 09:28:43] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:28:45] ppocr INFO: The predict total time is 0.2394394874572754
+[2024/12/04 09:28:56] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:28:57] ppocr INFO: The predict total time is 0.20789694786071777
+[2024/12/04 09:29:02] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:29:04] ppocr INFO: The predict total time is 0.3037416934967041
+[2024/12/04 09:29:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:29:12] ppocr INFO: The predict total time is 0.16451692581176758
+[2024/12/04 09:29:19] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:29:21] ppocr INFO: The predict total time is 0.4439973831176758
+[2024/12/04 09:29:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:29:31] ppocr INFO: The predict total time is 0.16382813453674316
+[2024/12/04 09:29:45] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:29:47] ppocr INFO: The predict total time is 0.31920838356018066
+[2024/12/04 09:30:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:30:02] ppocr INFO: The predict total time is 0.25363779067993164
+[2024/12/04 09:30:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 09:30:12] ppocr INFO: The predict total time is 0.27561283111572266
+[2024/12/04 10:24:59] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 10:25:00] ppocr INFO: The predict total time is 0.2381124496459961
+[2024/12/04 10:27:02] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 10:27:04] ppocr INFO: The predict total time is 0.21193623542785645
+[2024/12/04 10:27:18] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 10:27:20] ppocr INFO: The predict total time is 0.23833012580871582
+[2024/12/04 10:27:47] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 10:27:49] ppocr INFO: The predict total time is 0.16314959526062012
+[2024/12/04 13:17:48] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:17:51] ppocr INFO: The predict total time is 1.2136940956115723
+[2024/12/04 13:18:15] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:16] ppocr INFO: The predict total time is 0.03229236602783203
+[2024/12/04 13:18:23] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:24] ppocr INFO: The predict total time is 0.04991412162780762
+[2024/12/04 13:18:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:31] ppocr INFO: The predict total time is 0.041028738021850586
+[2024/12/04 13:18:36] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:37] ppocr INFO: The predict total time is 0.02698993682861328
+[2024/12/04 13:18:43] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:43] ppocr INFO: The predict total time is 0.028387069702148438
+[2024/12/04 13:18:57] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:18:58] ppocr INFO: The predict total time is 0.023551464080810547
+[2024/12/04 13:19:15] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:19:16] ppocr INFO: The predict total time is 0.09484267234802246
+[2024/12/04 13:20:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:20:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:20:24] ppocr INFO: The predict total time is 0.1597440242767334
+[2024/12/04 13:20:24] ppocr INFO: The predict total time is 0.1597440242767334
+[2024/12/04 13:20:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:20:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:20:37] ppocr INFO: The predict total time is 0.13289499282836914
+[2024/12/04 13:20:37] ppocr INFO: The predict total time is 0.13289499282836914
+[2024/12/04 13:21:03] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:03] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:05] ppocr INFO: The predict total time is 0.1478116512298584
+[2024/12/04 13:21:05] ppocr INFO: The predict total time is 0.1478116512298584
+[2024/12/04 13:21:21] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:21] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:23] ppocr INFO: The predict total time is 0.24504971504211426
+[2024/12/04 13:21:23] ppocr INFO: The predict total time is 0.24504971504211426
+[2024/12/04 13:21:36] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:36] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:21:38] ppocr INFO: The predict total time is 0.2036731243133545
+[2024/12/04 13:21:38] ppocr INFO: The predict total time is 0.2036731243133545
+[2024/12/04 13:24:50] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:24:50] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:24:50] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:24:52] ppocr INFO: The predict total time is 0.1584796905517578
+[2024/12/04 13:24:52] ppocr INFO: The predict total time is 0.1584796905517578
+[2024/12/04 13:24:52] ppocr INFO: The predict total time is 0.1584796905517578
+[2024/12/04 13:25:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:11] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:14] ppocr INFO: The predict total time is 0.15854191780090332
+[2024/12/04 13:25:14] ppocr INFO: The predict total time is 0.15854191780090332
+[2024/12/04 13:25:14] ppocr INFO: The predict total time is 0.15854191780090332
+[2024/12/04 13:25:14] ppocr INFO: The predict total time is 0.15854191780090332
+[2024/12/04 13:25:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:22] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:24] ppocr INFO: The predict total time is 0.16144871711730957
+[2024/12/04 13:25:24] ppocr INFO: The predict total time is 0.16144871711730957
+[2024/12/04 13:25:24] ppocr INFO: The predict total time is 0.16144871711730957
+[2024/12/04 13:25:24] ppocr INFO: The predict total time is 0.16144871711730957
+[2024/12/04 13:25:24] ppocr INFO: The predict total time is 0.16144871711730957
+[2024/12/04 13:25:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:29] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:31] ppocr INFO: The predict total time is 0.1080024242401123
+[2024/12/04 13:25:31] ppocr INFO: The predict total time is 0.1080024242401123
+[2024/12/04 13:25:31] ppocr INFO: The predict total time is 0.1080024242401123
+[2024/12/04 13:25:31] ppocr INFO: The predict total time is 0.1080024242401123
+[2024/12/04 13:25:31] ppocr INFO: The predict total time is 0.1080024242401123
+[2024/12/04 13:25:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:35] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:37] ppocr INFO: The predict total time is 0.30478358268737793
+[2024/12/04 13:25:37] ppocr INFO: The predict total time is 0.30478358268737793
+[2024/12/04 13:25:37] ppocr INFO: The predict total time is 0.30478358268737793
+[2024/12/04 13:25:37] ppocr INFO: The predict total time is 0.30478358268737793
+[2024/12/04 13:25:37] ppocr INFO: The predict total time is 0.30478358268737793
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:49] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:52] ppocr INFO: The predict total time is 0.2895667552947998
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:25:58] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 13:26:00] ppocr INFO: The predict total time is 0.10306429862976074
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:20] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:12:21] ppocr INFO: The predict total time is 0.027606487274169922
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:46] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:47] ppocr INFO: The predict total time is 0.079193115234375
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:54] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 14:13:56] ppocr INFO: The predict total time is 0.14711308479309082
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:02] ppocr INFO: The predict total time is 0.21425771713256836
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:09] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:11] ppocr INFO: The predict total time is 0.2376999855041504
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/04 15:00:18] ppocr INFO: The predict total time is 0.1397559642791748
+[2024/12/23 09:56:06] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:56:11] ppocr INFO: The predict total time is 0.5941953659057617
+[2024/12/23 09:56:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:56:27] ppocr INFO: The predict total time is 0.223602294921875
+[2024/12/23 09:56:32] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:56:34] ppocr INFO: The predict total time is 0.2299361228942871
+[2024/12/23 09:56:40] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:56:43] ppocr INFO: The predict total time is 0.22438311576843262
+[2024/12/23 09:56:47] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:56:49] ppocr INFO: The predict total time is 0.36039066314697266
+[2024/12/23 09:57:04] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 09:57:06] ppocr INFO: The predict total time is 0.1749563217163086
+[2024/12/23 10:06:25] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 10:06:27] ppocr INFO: The predict total time is 0.3208913803100586
+[2024/12/23 10:06:38] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 10:06:40] ppocr INFO: The predict total time is 0.22462153434753418
+[2024/12/23 10:06:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 10:06:53] ppocr INFO: The predict total time is 0.15253496170043945
+[2024/12/23 15:23:28] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 15:23:34] ppocr INFO: The predict total time is 1.2581799030303955
+[2024/12/23 15:23:42] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 15:23:46] ppocr INFO: The predict total time is 0.22916579246520996
+[2024/12/23 15:23:52] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 15:23:56] ppocr INFO: The predict total time is 0.30159926414489746
+[2024/12/23 15:29:39] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 15:29:42] ppocr INFO: The predict total time is 0.1350233554840088
+[2024/12/23 15:30:00] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/23 15:30:04] ppocr INFO: The predict total time is 0.1506052017211914
+[2024/12/27 13:40:30] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/27 13:40:37] ppocr INFO: The predict total time is 1.2471494674682617
+[2024/12/27 13:41:43] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2024/12/27 13:41:49] ppocr INFO: The predict total time is 0.547992467880249
+[2025/01/03 13:05:31] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2025/01/03 13:05:39] ppocr INFO: The predict total time is 1.4491968154907227
+[2025/01/03 13:05:51] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2025/01/03 13:05:54] ppocr INFO: The predict total time is 0.26197075843811035
+[2025/01/03 14:11:41] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2025/01/03 14:11:45] ppocr INFO: The predict total time is 0.2831871509552002
+[2025/01/03 14:15:16] ppocr WARNING: The first GPU is used for inference by default, GPU ID: 0
+[2025/01/03 14:15:21] ppocr INFO: The predict total time is 0.5315210819244385
