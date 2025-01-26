@@ -8,6 +8,7 @@
 2. Nguyễn Xuân Linh - 22520775
 
 ---
+Trước tiên bạn cần tải dataset theo link được cung cấp sẵn trong file linkdata.txt và giải nén
 
 ## 🗂 **Cấu trúc thư mục**
 ```plaintext
